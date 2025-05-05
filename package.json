@@ -1,0 +1,25 @@
+{
+  "name": "learn-html-css-javascript",
+  "version": "1.0.0",
+  "description": "This is my repo where I attempt to rebuild websites to learn HTML / CSS / Javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsdtux/learn-html-css-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bsdtux/learn-html-css-javascript/issues"
+  },
+  "homepage": "https://github.com/bsdtux/learn-html-css-javascript#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
